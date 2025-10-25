@@ -50,10 +50,8 @@ This companion repo includes basic-to-intermediate level exercises and code expe
 |2.| Scientific Calculator | Performs scientific and arithmetic operations with menu-based modular functions. | Easy |
 |3.| Tic Tac Toe | A two-player command-line game built using arrays and logic handling. | Medium |
 |4.| Sudoku Solver | Solves a 9x9 Sudoku grid using recursion and backtracking algorithm. | Hard |
-|5.| Mini Calculator | A simple calculator performing arithmetic operations using switch-case statements. | Easy |
-|6.| Number Guessing Game | Generates a random number and lets the user guess until correct. | Easy |
-|7.| Bank Management System | Manages account records with file-based storage and transaction operations. | Medium |
-|8.| Library Management System | Uses structures and file handling to manage book data. | Medium |
+|5.| Bank Management System | Manages account records with file-based storage and transaction operations. | Medium |
+|6.| Library Management System | Uses structures and file handling to manage book data. | Medium |
 
 ---
 
